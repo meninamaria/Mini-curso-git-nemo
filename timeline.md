@@ -17,6 +17,8 @@
   O Deus do Trovão recupera o Mjölnir, derrota o Destruidor e retorna a Asgard.
 
 <!-- SLOT_LOKI -->
+LOKI: 
+Owen Wilson, Gugu Mbatha-Raw, Wunmi Mosaku, Eugene Cordero, Sasha Lane e Tara Strong, também estrelam como Agente Mobius M. Mobius, Ravonna Renslayer, Caçadora B-15, Casey, Caçadora C-20 e Senhorita Minutos, membros da Autoridade de Variância Temporal.[5] Sophia Di Martino[6] e Richard E. Grant completam o elenco principal Di Martino como Sylvie Laufeydottir, uma variante feminina de Loki e Grant como Clássico Loki Laufeyson, uma variante antiga de Loki.
 
 - **2012 – Invasão Chitauri / Formação dos Vingadores**  
   Loki ataca Nova York com o Tesseract; os Vingadores se reúnem e selam a fenda dimensional.
